@@ -1,4 +1,4 @@
-const PROXY_URL = "https://cors-anywhere.herokuapp.com/";
+const PROXY_URL = "https://cors-anywhere.herokuapp.com/"; // only for my local development can be removed later on
 const API_KEY = "";
 const BASE_URL = "https://api.themoviedb.org/3";
 
