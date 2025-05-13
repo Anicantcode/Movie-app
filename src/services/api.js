@@ -1,5 +1,5 @@
 const PROXY_URL = "https://cors-anywhere.herokuapp.com/";
-const API_KEY = "270a0c65cd22d75260e21193f48f230d";
+const API_KEY = "";
 const BASE_URL = "https://api.themoviedb.org/3";
 
 export const getPopularMovies = async () => {
